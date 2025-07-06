@@ -38,12 +38,6 @@ A full-stack, role-based doctor appointment system where **Patients**, **Doctors
 
 ---
 
-## 📸 Screenshots
-
-*(Add your app screenshots here)*
-
----
-
 ## 🔧 Installation & Setup
 
 1. **Clone the repository**
